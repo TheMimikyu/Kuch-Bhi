@@ -1,6 +1,8 @@
 #include <iostream>
-using namespace std
+// iostream is the header(file) where cout implementation defined.
 int main()
 {
-    cout << "Hello World";
+   // std is standard namespace.
+   // namespace is the region where the functions scope is defined.
+    std::cout << "Hello World" ;
 }
